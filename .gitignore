@@ -1,0 +1,9 @@
+# Project exclude paths
+/out/.idea\
+.idea\
+out\
+ /out/production/java-apis-test-prep-2/com/tav/App.class
+/out/production/java-apis-test-prep-2/com/tav/DownloadSystem.class
+/out/production/java-apis-test-prep-2/com/tav/tasks/DownloadTask.class
+/out/production/java-apis-test-prep-2/com/tav/beans/FakeDownload.class
+/out/production/java-apis-test-prep-2/com/tav/NetworkUtil.class
